@@ -1,0 +1,65 @@
+StateId,CountryCode,Code,Name
+1,CA,AB,Alberta
+2,CA,BC,British Columbia
+3,CA,MB,Manitoba
+4,CA,NB,New Brunswick
+5,CA,NL,Newfoundland and Labrador
+6,CA,NT,Northwest Territories 
+7,CA,NS,Nova Scotia
+8,CA,NU,Nunavut 
+9,CA,ON,Ontario
+10,CA,PE,Prince Edward Island
+11,CA,QC,Quebec
+12,CA,SK,Saskatchewan
+13,CA,YT,Yukon
+14,US,AL,Alabama
+15,US,AK,Alaska
+16,US,AZ,Arizona
+17,US,AR,Arkansas
+18,US,CA,California
+19,US,CO,Colorado
+20,US,CT,Connecticut
+21,US,DE,Delaware
+22,US,DC,District of Columbia
+23,US,FL,Florida
+24,US,GA,Georgia
+25,US,HI,Hawaii
+26,US,ID,Idaho
+27,US,IL,Illinois
+28,US,IN,Indiana
+29,US,IA,Iowa
+30,US,KS,Kansas
+31,US,KY,Kentucky
+32,US,LA,Louisiana
+33,US,ME,Maine
+34,US,MD,Maryland
+35,US,MA,Massachusetts
+36,US,MI,Michigan
+37,US,MN,Minnesota
+38,US,MS,Mississippi
+39,US,MO,Missouri
+40,US,MT,Montana
+41,US,NE,Nebraska
+42,US,NV,Nevada
+43,US,NH,New Hampshire
+44,US,NJ,New Jersey
+45,US,NM,New Mexico
+46,US,NY,New York
+47,US,NC,North Carolina
+48,US,ND,North Dakota
+49,US,OH,Ohio
+50,US,OK,Oklahoma
+51,US,OR,Oregon
+52,US,PA,Pennsylvania
+53,US,RI,Rhode Island
+54,US,SC,South Carolina
+55,US,SD,South Dakota
+56,US,TN,Tennessee
+57,US,TX,Texas
+58,US,UT,Utah
+59,US,VT,Vermont
+60,US,VA,Virginia
+61,US,WA,Washington
+62,US,WV,West Virginia
+63,US,WI,Wisconsin
+64,US,WY,Wyoming

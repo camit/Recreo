@@ -1,0 +1,11 @@
+E:\Amit\test\Recreo\Recreo\DataAccess\bin\Debug\DataAccess.dll.config
+E:\Amit\test\Recreo\Recreo\DataAccess\bin\Debug\DataAccess.dll
+E:\Amit\test\Recreo\Recreo\DataAccess\bin\Debug\DataAccess.pdb
+E:\Amit\test\Recreo\Recreo\DataAccess\bin\Debug\EntityFramework.dll
+E:\Amit\test\Recreo\Recreo\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\Amit\test\Recreo\Recreo\DataAccess\bin\Debug\EntityFramework.xml
+E:\Amit\test\Recreo\Recreo\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\Amit\test\Recreo\Recreo\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\Amit\test\Recreo\Recreo\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+E:\Amit\test\Recreo\Recreo\DataAccess\obj\Debug\DataAccess.dll
+E:\Amit\test\Recreo\Recreo\DataAccess\obj\Debug\DataAccess.pdb
